@@ -44,38 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCE0aeRjVyB2qcpvsysWj882HcV9iKEQH0',
-    appId: '1:238093381598:web:66fa568d31637d9cdfb74f',
-    messagingSenderId: '238093381598',
-    projectId: 'stockapp-93e54',
-    authDomain: 'stockapp-93e54.firebaseapp.com',
-    storageBucket: 'stockapp-93e54.appspot.com',
-    measurementId: 'G-E7BDL4C6ND',
+    apiKey: 'AIzaSyB5EA9EN3NMLvP9FY83KejeaunV_P0eIRA',
+    appId: '1:619194818358:web:ea6f9f9e4c229a12dbdd97',
+    messagingSenderId: '619194818358',
+    projectId: 'stockapp-4f32d',
+    authDomain: 'stockapp-4f32d.firebaseapp.com',
+    storageBucket: 'stockapp-4f32d.appspot.com',
+    measurementId: 'G-0EMWC9172K',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB41QKpLWZHLXmsVL7G3rs1vZGxaEJfGD8',
-    appId: '1:238093381598:android:9741e6f4cedd9a3edfb74f',
-    messagingSenderId: '238093381598',
-    projectId: 'stockapp-93e54',
-    storageBucket: 'stockapp-93e54.appspot.com',
+    apiKey: 'AIzaSyBmnJaB6mc5bgY5F1BGdPsipBkyn1WduPg',
+    appId: '1:619194818358:android:0161531f2da2c576dbdd97',
+    messagingSenderId: '619194818358',
+    projectId: 'stockapp-4f32d',
+    storageBucket: 'stockapp-4f32d.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDndbxuyEAXM8CsWi9OWBX4qczIjYdkRZw',
-    appId: '1:238093381598:ios:f974884731ccf577dfb74f',
-    messagingSenderId: '238093381598',
-    projectId: 'stockapp-93e54',
-    storageBucket: 'stockapp-93e54.appspot.com',
+    apiKey: 'AIzaSyBDEUPawzVONhFI1M-d8q7DFA7FJLo7LdY',
+    appId: '1:619194818358:ios:08cf0539fc52814bdbdd97',
+    messagingSenderId: '619194818358',
+    projectId: 'stockapp-4f32d',
+    storageBucket: 'stockapp-4f32d.appspot.com',
     iosBundleId: 'com.example.stockapp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDndbxuyEAXM8CsWi9OWBX4qczIjYdkRZw',
-    appId: '1:238093381598:ios:f5669dd4f2099879dfb74f',
-    messagingSenderId: '238093381598',
-    projectId: 'stockapp-93e54',
-    storageBucket: 'stockapp-93e54.appspot.com',
+    apiKey: 'AIzaSyBDEUPawzVONhFI1M-d8q7DFA7FJLo7LdY',
+    appId: '1:619194818358:ios:50d6b47c36dad771dbdd97',
+    messagingSenderId: '619194818358',
+    projectId: 'stockapp-4f32d',
+    storageBucket: 'stockapp-4f32d.appspot.com',
     iosBundleId: 'com.example.stockapp.RunnerTests',
   );
 }
